@@ -1,0 +1,73 @@
+body {
+    background-color: antiquewhite;
+  }
+  
+  img {
+    width: 250px;
+    height: 250px;
+    margin: 0.5rem;
+  }
+  
+  /* Nav Bar */
+  .nav-bar{
+    border: 1px solid black;
+    background-color: purple;
+    margin: 1rem;
+  }
+  
+  .nav-bar-link{
+    color: yellow;
+    margin: .5rem;
+  }
+  
+  .counter-main-container{
+   
+  }
+  .counter-inner-container{
+    display: flex;
+    justify-content: center;
+  }
+  
+  button{
+    margin: 1rem;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  
+  .subHeader {
+    text-align: center;
+  }
+  
+  .section {
+    border: 1px solid black;
+    background-color: aqua;
+    margin: 1rem;
+  }
+  
+  .puppies-main-container {
+    display: flex;
+    margin: 1rem;
+    justify-content: center;
+  }
+  
+  .people-main-container{
+    display: flex;
+    margin: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .makeBold{
+    font-weight: bold;
+  }
+  
+  .card{
+    background-color: tan;
+    border: 1px solid black;
+    margin: 1rem;
+    text-align: center;
+    width: 250px;
+  
+  }
